@@ -17,6 +17,7 @@ NOTE: I was never able to finish this script to be how I envisioned, so the defa
 There are 2 facets to the addiction mechanic:
 1. Dependency
 2. Withdrawals
+
 A character must first acquire a dependency. If they have a dependency and don't use the substance within a certain timeframe, the character will start to experience withdrawals (it hurts their health over time). Withdrawals can be stopped by using the substance again, or by simply waiting them out.
 
 ## Requirements
